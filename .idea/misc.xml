@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppSplash/StartupDemo/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.164" />
+        <entry key="..\:/AppSplash/StartupDemo/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AppSplash/StartupDemo/app/src/main/res/layout/activity_sign_in.xml" value="0.1556420233463035" />
+        <entry key="..\:/AppSplash/StartupDemo/app/src/main/res/layout/activity_sign_up.xml" value="0.21621621621621623" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1565" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/drawable/custom_button.xml" value="0.1815" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/drawable/field.xml" value="0.1995" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/drawable/ic_baseline_alarm_add_24.xml" value="0.2385" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1565" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.1565" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1565" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/activity_adjust_alarm.xml" value="0.19844357976653695" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/activity_destination.xml" value="0.24583333333333332" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/activity_find_my_device.xml" value="0.18425925925925926" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/activity_speak.xml" value="0.2" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/activity_splash_screen.xml" value="0.2108083966056275" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/acvtivity_destination_alarm.xml" value="0.2" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/layout/main_alarm.xml" value="0.24895833333333334" />
+        <entry key="..\:/Flutter Workshop - CU/appDemo4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2305" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

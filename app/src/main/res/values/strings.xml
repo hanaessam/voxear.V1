@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StartupDemo</string>
+    <string name="title_activity_find_my_device">FindMyDevice</string>
+</resources>
